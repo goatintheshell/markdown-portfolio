@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Bears
+2. Beats
+3. Battlestar Galactica
