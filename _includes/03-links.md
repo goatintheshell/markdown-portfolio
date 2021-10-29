@@ -1,1 +1,1 @@
-![My github profile](github.com/goatintheshell)
+[My github profile](github.com/goatintheshell)
